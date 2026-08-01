@@ -6,3 +6,6 @@ print(date.today()) # today's date
 #using functions from utils.py
 print(utils.add(6, 7))
 print(utils.subtract(7, 3))
+
+#using the new fuction
+print(utils.multiply(5, 8))
