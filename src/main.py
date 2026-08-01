@@ -1,4 +1,8 @@
 from datetime import date
-
+import utils
 print("Nazifa Tahsin") #my name
 print(date.today()) # today's date
+
+#using functions from utils.py
+print(utils.add(6, 7))
+print(utils.subtract(7, 3))
